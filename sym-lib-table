@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "extras")(type "KiCad")(uri "${KIPRJMOD}/extras.kicad_sym")(options "")(descr ""))
+  (lib (name "dclogo")(type "KiCad")(uri "${KIPRJMOD}/dclogo.kicad_sym")(options "")(descr ""))
+)
